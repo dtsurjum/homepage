@@ -1,0 +1,26 @@
+https://wiki.itcollege.ee/index.php/I253_Informatika_eelkursus#Teine_p.C3.A4ev:_Ubuntuga_tutvumine_ja_virtuaalmasinate_loomine
+
+1 KiB = 1024		kigibyte 	B=2 v 10toj
+1 MiB = 1024*1024	megabite	B=2 v 20toj
+1 GiB = 2 v 30toj	gigabite	2 v 30toj
+
+
+4day
+
+
+SSH public key authentication
+Git version control system
+
+
+dtsurjum@klass1-14-l   imja_polzovateja@hostname(mesto)-nomer pc-(sistema linux)
+
+1. shh-keygen
+2. shh-copy-id user@server
+3. shh user@server
+
+	cat .ssh/authorized_keys
+	nano .ssh/authorized_keys
+
+
+4. In file browser press ctl+L and type sftp://dtsurjum@enos.itcollege.ee
+
