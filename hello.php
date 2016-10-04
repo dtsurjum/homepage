@@ -1,10 +1,12 @@
+
+
 The rest is actually HTML
 <?php
 
 
 # var name = prompt
 # alert ("hello" + name)
-# This is hello world in PHP
+# This is hello(privet) world in PHP
 # This file is saved to public_html as hello.php
 
 echo "Hello world";
